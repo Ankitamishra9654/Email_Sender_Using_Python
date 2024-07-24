@@ -13,6 +13,14 @@ This mini project demonstrates how to send an email using Python's `smtplib` and
 
 - Python 3.x installed
 - Gmail account with App Password enabled (for accounts with 2-step verification)
+  
+## How to Create and use app passwords
+Go to your Google Account.
+On the left navigation panel, choose Security.
+On the 'Signing in to Google' panel, choose App passwords. ...
+At the bottom, choose Select app and choose the app that you're using.
+Choose Select device and choose the device that you're using.
+Choose Generate.
 
 ## Important Notes
 
